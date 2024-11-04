@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+
+}
+.pass{
+    display: flex;
+}
+.score{
+    margin-left: 80%;
+}
+
+.div{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border: solid black 3.5px;
+    border-radius: 25px;
+    margin: 2.5rem;
+}
+.red{
+    background-color: #d95980;
+}
+.orange{
+    background-color: #f99b45;
+}
+.green{
+    background-color: #77bb55;
+}
+.blue{
+    background-color: #63aac0;
+}
+.maindiv{
+    justify-content: center;
+    display: flex;
+}
+
+.flash{
+    background-color: black;
+}
